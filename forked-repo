@@ -1,0 +1,27 @@
+$ curl -s https://api.github.com/repos/dhawal-793/Simple-Interest-Calculator-Assignment-Coursera-IBM
+
+{
+  "id": 876543210,
+  "node_id": "R_kgDOH...",
+  "name": "Simple-Interest-Calculator-Assignment-Coursera-IBM",
+  "full_name": "dhawal-793/Simple-Interest-Calculator-Assignment-Coursera-IBM",
+  "private": false,
+  "owner": {
+    "login": "dhawal-793",
+    "id": 12345678
+  },
+  "html_url": "https://github.com/dhawal-793/Simple-Interest-Calculator-Assignment-Coursera-IBM",
+  "fork": true,
+  "parent": {
+    "id": 554433221,
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  },
+  "source": {
+    "id": 554433221,
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
